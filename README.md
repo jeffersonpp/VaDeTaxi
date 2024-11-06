@@ -15,7 +15,7 @@ A API **Va de Taxi** foi desenvolvida para gerenciar passageiros, motoristas e c
 
 Clone o repositório para o seu computador local:
 
-git clone https://github.com/seu-usuario/va-de-taxi-api.git
+git clone https://github.com/jeffersonpp/vadetaxi.git
 
 ###  2. Instale as dependências
 Navegue até o diretório do projeto e instale as dependências com o comando:
